@@ -13,3 +13,5 @@ models/*_pretrained*
 *.egg-info/
 dist/
 build/
+.idea/
+*.DS_Store
